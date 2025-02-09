@@ -4,7 +4,7 @@ I will try to make them beautiful (I will try maybe) I'm going to work about C/C
 -
 >Programming is the art of telling another person what they want from a computer. (Donald Erwin Knuth)
 
-для русских людей
+для русскоязычных людей
 -
 *привет, это мои первые работы*
 =========
